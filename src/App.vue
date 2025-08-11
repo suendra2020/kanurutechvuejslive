@@ -119,7 +119,7 @@
               <div class="card-body">
                 <div class="d-flex align-items-center mb-3">
                   <div class="service-icon gradient-bg me-3">
-                    <i class="bi bi-lightbulb"></i>
+                    <i :class="service.icon"></i>
                   </div>
                   <span class="badge bg-danger bg-opacity-10 text-danger">Core Service</span>
                 </div>
