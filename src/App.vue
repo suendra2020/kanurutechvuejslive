@@ -272,7 +272,7 @@
             Transform your organization with our comprehensive solutions. 
             Let's discuss how we can help you achieve your goals.
           </p>
-          <a href="https://wa.me/919876543210?text=Welcome%20to%20Kanuru%20Info%20Team.%20Hi%20Kanuru%20Team%2C%20How%20may%20we%20help%20you%3F" 
+          <a class="btn btn-lg gradient-bg text-white px-4" href="https://wa.me/919876543210?text=Welcome%20to%20Kanuru%20Info%20Team.%20Hi%20Kanuru%20Team%2C%20How%20may%20we%20help%20you%3F" 
    target="_blank" 
    rel="noopener noreferrer">
   Chat with us on WhatsApp
