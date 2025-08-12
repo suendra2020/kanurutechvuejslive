@@ -74,14 +74,14 @@
             </div>
 
             <!-- Stats Section -->
-            <!-- <div class="row g-4 mt-5 fade-in">
+            <div class="row g-4 mt-5 fade-in">
               <div class="col-6 col-md-3" v-for="stat in stats" :key="stat.label">
                 <div class="text-center">
                   <div class="h2 fw-bold text-danger mb-2">{{ stat.number }}</div>
                   <div class="text-muted">{{ stat.label }}</div>
                 </div>
               </div>
-            </div> -->
+            </div>
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-8">
-            <h2 class="display-6 fw-bold mb-4 mt-3">
+            <h2 class="display-6 fw-bold mb-4 mt-3 fade-in">
               Why Choose <span class="gradient-text">Kanuru Infosystems</span>
             </h2>
           </div>
@@ -182,7 +182,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6">
-            <h2 class="display-5 fw-bold mb-4 ">
+            <h2 class="display-5 fw-bold mb-4 fade-in">
               About <span class="gradient-text">Kanuru Infosystems</span>
             </h2>
             <p class="lead text-muted mb-4">
