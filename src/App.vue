@@ -423,7 +423,7 @@ export default {
         image: dashboardImg
       },
       {
-        icon: "bi bi-brain",
+        icon: "bi bi-person-check",
         title: "Training & Capacity Building",
         description: "Upskill for the Data-Driven Era",
         features: ["Data Science Bootcamp", "Machine Learning Mastery", "Analytics for Managers", "Custom Workshops"],
