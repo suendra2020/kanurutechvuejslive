@@ -33,9 +33,9 @@
               <a class="nav-link" href="#contact">Contact</a>
             </li>
             <li class="nav-item">
-              <button class="btn gradient-bg text-white ms-2">Get Started</button>
+              <!-- <button class="btn gradient-bg text-white ms-2">Get Started</button> -->
               
-              <a href="#contact" class="btn gradient-bg text-white ms-2" href="#contact">Contact</a>
+              <a  class="btn gradient-bg text-white ms-2" href="#contact">Get Started</a>
             </li>
           </ul>
         </div>
@@ -65,10 +65,9 @@
             </p>
 
             <div class="d-flex flex-column flex-sm-row gap-3 justify-content-center mb-5 fade-in">
-              <button class="btn btn-lg gradient-bg text-white px-4">
-                Explore Our Services
-                <i class="bi bi-arrow-right ms-2"></i>
-              </button>
+         
+              <a  class="btn btn-lg gradient-bg text-white px-4" href="#services">Explore Our Services    <i class="bi bi-arrow-right ms-2"></i></a>
+
               <!-- <a href="#contact" class="btn gradient-bg text-white ms-2">
                 Contact Us
               </a> -->
