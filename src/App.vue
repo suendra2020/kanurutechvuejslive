@@ -34,6 +34,8 @@
             </li>
             <li class="nav-item">
               <button class="btn gradient-bg text-white ms-2">Get Started</button>
+              
+              <a href="#contact" class="btn gradient-bg text-white ms-2" href="#contact">Contact</a>
             </li>
           </ul>
         </div>
@@ -67,9 +69,9 @@
                 Explore Our Services
                 <i class="bi bi-arrow-right ms-2"></i>
               </button>
-              <button class="btn btn-lg btn-outline-danger px-4">
+              <!-- <a href="#contact" class="btn gradient-bg text-white ms-2">
                 Contact Us
-              </button>
+              </a> -->
             </div>
 
             <!-- Stats Section -->
