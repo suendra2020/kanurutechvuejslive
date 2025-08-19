@@ -5,7 +5,7 @@
       <div class="container">
         <a class="navbar-brand d-flex align-items-center" href="#home">
           <img :src="kanuruLogo" alt="Kanuru Infosystems" width="32" height="32" class="me-2">
-          <span class="fw-bold text-dark">Kanuru<span class="red">Infosystems</span></span>
+          <span class="fw-bold text-dark">Kanuru<span class="red"> Infosystems</span></span>
         </a>
         
         <button 
