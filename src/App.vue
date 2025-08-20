@@ -253,7 +253,7 @@
         <h4 class="fw-bold mb-4">Get in Touch</h4>
         <p class="mb-3">
           <i class="bi bi-envelope text-danger me-2"></i>
-          naageshk26@gmail.com
+          info@kanurutech.com
         </p>
         <p class="mb-3">
           <i class="bi bi-telephone text-danger me-2"></i>
