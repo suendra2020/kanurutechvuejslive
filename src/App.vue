@@ -74,14 +74,14 @@
             </div>
 
             <!-- Stats Section -->
-            <div class="row g-4 mt-5 fade-in">
+            <!-- <div class="row g-4 mt-5 fade-in">
               <div class="col-6 col-md-3" v-for="stat in stats" :key="stat.label">
                 <div class="text-center">
                   <div class="h2 fw-bold text-danger mb-2">{{ stat.number }}</div>
                   <div class="text-muted">{{ stat.label }}</div>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -108,14 +108,14 @@
             :key="index"
           >
             <div class="card h-100 border-0 shadow card-hover slide-up">
-              <div v-if="service.image" class="position-relative overflow-hidden">
+              <!-- <div v-if="service.image" class="position-relative overflow-hidden">
                 <img 
                   :src="service.image" 
                   :alt="service.title"
                   class="card-img-top"
                   style="height: 200px; object-fit: cover;"
                 >
-              </div>
+              </div> -->
               
               <div class="card-body">
                 <div class="d-flex align-items-center mb-3">
@@ -181,7 +181,7 @@
     <section id="about" class="py-5 bg-white">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-lg-6">
+          <div class="col-lg-12">
             <h2 class="display-5 fw-bold mb-4 fade-in">
               About <span class="gradient-text">Kanuru Infosystems</span>
             </h2>
@@ -221,13 +221,13 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-6">
+          <!-- <div class="col-lg-6">
             <img 
               :src="dashboardImg" 
               alt="About Kanuru Infosystems" 
               class="img-fluid rounded shadow"
             >
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
@@ -253,7 +253,7 @@
         <h4 class="fw-bold mb-4">Get in Touch</h4>
         <p class="mb-3">
           <i class="bi bi-envelope text-danger me-2"></i>
-          nageshkanuruinfosystems@gmail.com
+          naageshk26@gmail.com
         </p>
         <p class="mb-3">
           <i class="bi bi-telephone text-danger me-2"></i>
