@@ -257,7 +257,7 @@
         </p>
         <p class="mb-3">
           <i class="bi bi-telephone text-danger me-2"></i>
-          Contact us : 91+ 7019123548
+          Contact us : + 91 7019123548
         </p>
         <p>
           <i class="bi bi-globe text-danger me-2"></i>
